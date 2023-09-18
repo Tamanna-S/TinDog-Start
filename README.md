@@ -1,1 +1,1 @@
-# https://tamanna-s.github.io/TinDog-Start/
+# https://tamannasgh.github.io/TinDog-Start/
